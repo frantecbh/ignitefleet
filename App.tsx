@@ -10,7 +10,7 @@ import { StatusBar } from "expo-status-bar";
 
 
 
-
+import {ANDROID_CLIENT_ID} from '@env'
 
 
 export default function App() {
