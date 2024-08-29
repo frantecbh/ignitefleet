@@ -34,6 +34,9 @@ module.exports = {
         XL: 20,
         XXL: 24,
         XXXL: 32,
+      },
+      backgroundImage: {
+        'hero-pattern': "url('./src/assets/background.png')",     
       }
     },
   },
